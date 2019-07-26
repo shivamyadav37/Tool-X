@@ -1,6 +1,5 @@
 #Tool Name :- Tool-X 
 # Author :- Shivam Yadav
-# Date :- 26/07/2019
 # Aex Software's :- Tool-X is a automatic tool installer. Specially made for termux and GNURoot Debian terminal.
 
 import os
