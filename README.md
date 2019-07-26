@@ -12,11 +12,11 @@ Tool-X is a program installer for Kali Linux tools. Tool-X was developed for Ter
 
 Tool-X works on any of the following operating systems:
 • Android (Using the Termux App)
-• Linux (Debian Based Systems) 
+• Linux 
 
 
 
-inbox_tray   How to Install   inbox_tray
+** How to Install --> **
 
 Open the terminal and type following commands.
 
