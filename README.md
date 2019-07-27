@@ -1,5 +1,5 @@
 # Tool-X
-Pentesting tools for android [used on Termux]/ Linux Machines.
+Pentesting tools for android [used on Termux or any other Terminal Emulator] / Linux Machines.
 
 **-->>>This repo is not complete yet**
 
