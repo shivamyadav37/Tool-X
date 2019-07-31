@@ -1,7 +1,7 @@
 # Tool-X
 Pentesting tools for android [used on Termux or any other Terminal Emulator] / Linux Machines.
 
-**-->>>This repo is not complete yet**
+**-->>>This repo is not complete yet(but you can download this repo on your machine , I update tools on regular basis)**
 
 **This is an Open source Project**
 
