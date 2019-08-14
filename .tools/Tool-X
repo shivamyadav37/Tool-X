@@ -1,0 +1,11 @@
+# Tool Name :- Tool-X
+# Author :- Shivam Yadav
+
+echo ""
+if [ -e /usr/lib/sudo ];
+then
+	cd && cd ~/.Tool-X && sudo python2 .Tool-X.py
+else
+	cd && cd ~/.Tool-X && python2 .Tool-X.py
+fi
+exit
