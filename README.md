@@ -1,5 +1,5 @@
 # Tool-X
-Pentesting tools for android [used on Termux or any other Terminal Emulator] / Linux Machines.
+Pentesting tools for android [used on Termux or any other Terminal Emulator] /  Linux Machines.
 
 Python 2 is must for these Tools to run.
 
