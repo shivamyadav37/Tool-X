@@ -1,0 +1,6 @@
+# wifigod {
+    $toolinstall ( https://github.com/fortify24x7/wifigod.git );
+    $scriptname ( wifigod.py );
+    $toollang ( python );
+    $req ( py );
+}
