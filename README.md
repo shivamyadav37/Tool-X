@@ -11,7 +11,7 @@ Python 2 is must for these Tools to run.
 **Any of These Tools are not written by me**
 
 
-**All the Tools Used are opensourced on Github so you can also Download them from owner's respective repositories**
+**All the Tools Used are Opensourced on Github so you can also Download them from owner's respective repositories**
 
 
 Tool-X is a program installer for Kali Linux tools. Tool-X was developed for Termux and other android terminals. Using Tool-X, you can install hacking tools in Termux and other Linux based distributions. Now Tool-X is available for Ubuntu, Debian etc.
