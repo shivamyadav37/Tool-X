@@ -67,15 +67,15 @@ def proce1():
 def proce():
 	print ('''\n\033[1;32mUpdating.........\033[1;m\n''')
 	if system=="termux":
-	  os.system("cd "+home+" && git clone https://github.com/Rajkumrdusad/Tool-X.git")
+	  os.system("cd "+home+" && git clone https://github.com/shivamyadav37/Tool-X.git")
 	  proce1()
 	  ux()
 	elif system=="debian":
-	  os.system("cd "+home+" && git clone https://github.com/Rajkumrdusad/Tool-X.git")
+	  os.system("cd "+home+" && git clone https://github.com/shivamyadav37/Tool-X.git")
 	  proce1()
 	  ux()
 	else:
-	  os.system("cd "+home+" && sudo git clone https://github.com/Rajkumrdusad/Tool-X.git")
+	  os.system("cd "+home+" && sudo git clone https://github.com/shivamyadav37/Tool-X.git")
 	  proce1()
 	  ux()
 
