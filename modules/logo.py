@@ -89,7 +89,7 @@ def a_logo():
     hader()
     print ('''
 \033[1;33m       [+] Tool Name :- \033[1;32mTool-X
-\033[1;33m       [+] Author :- \033[1;32mRajkumar Dusad
+\033[1;33m       [+] Author :- \033[1;32mShivam Yadav
 \033[1;33m       [+] Powered By :- \033[1;32mAex Software's.\033[1;m
 \033[1;33m       [+] Latest Update :- \033[1;32m23/3/2019.\033[1;m
 
@@ -102,7 +102,7 @@ def a_logo():
     hader()
     print ('''
 \033[1;33m              [+] Tool Name :- \033[1;32mTool-X
-\033[1;33m              [+] Author :- \033[1;32mRajkumar Dusad
+\033[1;33m              [+] Author :- \033[1;32mShivam Yadav
 \033[1;33m              [+] Powered By :- \033[1;32mAex Software's.\033[1;m
 \033[1;33m              [+] Latest Update :- \033[1;32m23/3/2019.\033[1;m
 
@@ -381,7 +381,7 @@ def hader():
               |_   _|__   ___ | |   \ \/ /
                 | |/ _ \ / _ \| |____\  /
                 | | (_) | (_) | |____/  \     
-                |_|\___/ \___/|_|   /_/\_\ \033[1;31mv2.0
+                |_|\___/ \___/|_|   /_/\_\ --Shivam Yadav \033[1;31mv2.0
 \033[1;m
 
 \033[1;36m =========================================================\033[1;m
